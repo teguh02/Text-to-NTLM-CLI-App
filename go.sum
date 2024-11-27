@@ -1,0 +1,4 @@
+github.com/sergeymakinen/go-crypt v1.0.0 h1:R9yyekVU0bxP7MUUJd3uCcGQxg5RqMJ/ahy2bllx9qg=
+github.com/sergeymakinen/go-crypt v1.0.0/go.mod h1:5NPTCUNfQrNlck+I9ONHFT55UvGWzosSf+QQPSuxYBE=
+golang.org/x/crypto v0.17.0 h1:r8bRNjWL3GshPW3gkd+RpvzWrZAwPS49OmTGZ/uhM4k=
+golang.org/x/crypto v0.17.0/go.mod h1:gCAAfMLgwOJRpTjQ2zCCt2OcSfYMTeZVSRtQlPC7Nq4=
