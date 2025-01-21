@@ -4,6 +4,19 @@ Simple App CLI-Based Command to Generate NTHASH From the Plaintext Password
 # Install
 Download the binary according with your OS on Release section here
 
+# Build
+Install latest Go version in your machine, and type these command to build into a binary.
+
+For Linux/Mac
+```bash
+go build -o texttontlm
+```
+
+For Windows
+```bash
+go build -o texttontlm.exe
+```
+
 # Usage 
 ## MacOS / Linux
 - Open your terminal and type <code>./texttontlm -p 12345678</code>
