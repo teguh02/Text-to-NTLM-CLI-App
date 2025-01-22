@@ -5,7 +5,7 @@ Simple App CLI-Based Command to Generate NTHASH From the Plaintext Password
 Download the binary according with your OS on Release section here
 
 # Build
-Install latest Go version in your machine, and type these command to build into a binary.
+Clone this repository on to your machine. Install latest Go version on your machine, and type these command to build into a binary.
 
 For Linux/Mac
 ```bash
